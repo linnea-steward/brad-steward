@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Brad Steward (he/him). I am a Most-Of-The-Stack Engineer specilizing in front end solutions. Specifically javascript and Typescript used through the lens of frameworks and libraries including: Angular, React, Vue and more besides.
+
 <!--
 **brad-steward/brad-steward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
